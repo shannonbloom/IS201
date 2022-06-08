@@ -1,0 +1,50 @@
+
+body {
+    color: #5C1E18;
+    background-image: url('../images/background.jpg');
+    
+}
+
+span {
+    color: #5C1E18;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+footer {
+    font-size: 16px;
+}
+
+.img {
+    height: 900px;
+    object-fit: cover;
+}
+
+.pink {
+    color: #DBA9A4
+}
+
+a {
+    color: #212529;
+    text-decoration: underline;    
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.fancy {
+    font-style: normal;
+}
+
+.reset {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.video {
+    text-align: center;
+}
